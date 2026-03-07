@@ -22,7 +22,9 @@ export default defineConfig({
       {
         text: 'MelonLoader',
         items: [
-          { text: 'Installation', link: '/docs/melonloader/guide' }
+          { text: 'Installation (Mod Manager)', link: '/docs/melonloader/modmanager' },
+          { text: 'Installation (Manual)', link: '/docs/melonloader/guide' },
+
         ]
       },
       {

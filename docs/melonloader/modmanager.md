@@ -1,11 +1,14 @@
 # MelonLoader Installation Guide
 
-::: warning
-Modding your game manually is **_not recommended_**. Unless you know what you're doing, refer to the [Mod Manager Guide](/docs/melonloader/modmanager.md), instead.
-:::
 ::: tip
 If you do not know how to find your game path, refer to [Locating Your Game](/docs/extra/locating-your-game.md).
 :::
+
+## Mod Managers
+
+Although a mod manager isn't strictly required for installation, **its very much recommended**.
+
+This guide will demonstrate how to use [GorillaMelonManager](https://github.com/GorillaTagModdingHub/GorillaMelonManager).
 
 ## 0. Preface
 
@@ -19,15 +22,20 @@ doorstop_config.ini
 winhttp.dll
 ```
 
-## 1. Download MelonLoader
+## 1. Download GorillaMelonManager
 
-To get mods up and running, you need MelonLoader.
-Downloads are on the [MelonLoader GitHub Releases](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.2). Pick the installer which matches your platform.
+To easily download and manage mods, we'll use GorillaMelonManager.
+Downloads are on the [GorillaMelonManager GitHub Releases](https://github.com/GorillaTagModdingHub/GorillaMelonManager/releases/). Pick the file which matches your platform.
 
-Once you open the installer, select Gorilla Tag from the list.
-Then, make sure the version is **0.7.2, or higher**, then hit `install`.
+![GorillaMelonManager GitHub Release Demonstration](/assets/gmm.png)
 
-![screenshot of melonloader installer](/assets/ver.png)
+## 1.1. Install MelonLoader
+
+Once you open GorillaMelonManager, go to the settings tab and verify that your game path is correct. If it's not, or installation fails, set it!
+
+Next, you want to press `Install MelonLoader`
+
+![screenshot of melonloader installer](/assets/installml.png)
 
 ::: tip HOLD UP!
 If the installation fails, report the issue to the Gorilla Tag Modding Hub Discord!
@@ -53,7 +61,7 @@ Instead, copy the **contents** of it (Mods/).
 
 You've successfully modded your game!
 
-To find mods to install, refer to the [Gorilla Tag Mod Hub](https://discord.gg/t8AmU8YVcs), or the [Gorilla Tag GameBanana](https://gamebanana.com/games/9496).
+To find mods to install, refer to the [Gorilla Tag Mod Hub](https://discord.gg/t8AmU8YVcs), or the [Gorilla Tag GameBanana](https://gamebanana.com/games/9496) (managed via GorillaMelonManager).
 
 ::: tip
 If you're using Linux, you need to do one more step.
