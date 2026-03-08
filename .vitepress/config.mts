@@ -52,7 +52,9 @@ export default defineConfig({
             {
               text: 'Creating Mods',
               items: [
-                { text: 'Initial Setup', link: '/dev/initial-setup' }
+                { text: 'Initial Setup', link: '/dev/creating-mods/initial-setup' },
+                { text: 'Starting a Mod', link: '/dev/creating-mods/starting-a-mod.md' },
+                { text: 'Open-source & Ethics', link: '/dev/creating-mods/open-source-and-ethics.md' },
               ]
             }
           ]

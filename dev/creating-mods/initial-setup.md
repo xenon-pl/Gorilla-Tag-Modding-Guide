@@ -70,6 +70,8 @@ Free options include:
 * [ILSpy](https://github.com/icsharpcode/ILSpy)
 * [dotPeek](https://www.jetbrains.com/decompiler/)
 
+And in my opinion, ILSpy is the best free decompiler you can get. 
+
 ::: tip
 Rider and Visual Studio already include decompiler functionality, so you may not need a separate tool. Different decompilers can display code slightly differently, so experiment if necessary.
 :::
@@ -86,7 +88,7 @@ Download the version compatible with the [latest MelonLoader release.](https://g
 
 ### Additional Tools (optional) {#other-tools}
 
-There are many extra tools and plugins for MelonLoader that can enhance your modding workflow. A curated list is available in the [MelonLoader developer tools](https://melonwiki.xyz/#/modders/development-tools) section.
+There are many extra tools and plugins for MelonLoader that can enhance your modding workflow. A curated list is available in the [MelonLoader universal mods](https://melonwiki.xyz/#/universalmods) and [Melonloader universal plugins](https://melonwiki.xyz/#/universalplugins) section.
 
 ---
 
@@ -98,7 +100,7 @@ Version control is crucial for any development project. Git allows you to:
 * Revert to previous versions if something breaks
 * Collaborate with others efficiently
 
-[GitHub](https://github.com/) is the most popular free platform for hosting Git repositories. Alternatives include [GitLab](https://about.gitlab.com/).
+[GitHub](https://github.com/) is the most popular free platform for hosting Git repositories. Alternatives include [GitLab](https://about.gitlab.com/) and [Codeberg](https://codeberg.org/).
 
 To create an account, go to [GitHub’s signup page](https://github.com/) and follow the instructions. GitHub also offers a [helpful guide](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account).
 

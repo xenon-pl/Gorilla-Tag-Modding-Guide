@@ -21,7 +21,7 @@ features:
     link: /docs/get-started
     linkText: Beginner's Guide
   - title: Developing Mods
-    details: -- WIP --
+    details: Create some mods for Gorilla Tag!
     link: /dev/overview
     linkText: Developer's Guide
   - title: FAQ
