@@ -1,6 +1,8 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+titleTemplate: false
+description: The Gorilla Tag Modding Wiki. Learn how to install, manage, and create mods for Lethal Company!
 
 hero:
   name: "Gorilla Tag Modding Guide"
@@ -10,8 +12,8 @@ hero:
       text: Get Started!
       link: /docs/get-started
     - theme: alt
-      text: Join Discord
-      link: https://discord.gg/t8AmU8YVcs
+      text: Edit on GitHub
+      link: https://github.com/xenon-pl/Gorilla-Tag-Modding-Guide
 
 features:
   - title: Installing Mods
@@ -27,3 +29,8 @@ features:
     link: /docs/extra/faq
     linkText: Frequently Asked Questions
 ---
+
+## External Links
+
+- [Join the Unofficial Community Discord server!](https://discord.gg/t8AmU8YVcs)
+- [Contribute on GitHub](https://github.com/xenon-pl/Gorilla-Tag-Modding-Guide)
