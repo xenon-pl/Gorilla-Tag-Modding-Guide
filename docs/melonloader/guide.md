@@ -22,6 +22,10 @@ doorstop_config.ini
 winhttp.dll
 ```
 
+::: info
+Mods installed with BepInEx will not work with MelonLoader, as they are different mod loaders.
+:::
+
 ## 1. Download MelonLoader
 
 To get mods up and running, you need MelonLoader.
@@ -41,17 +45,14 @@ If the installation fails, report the issue to the Gorilla Tag Modding Hub Disco
 Congratulations, you've now successfully modded Gorilla Tag!
 
 To ensure all your mods work, you need GorillaLibrary.
-Go to [GorillaLibrary's GitHub Releases](https://github.com/GorillaTagModdingHub/GorillaLibrary/releases), and download `GorillaLibrary-[ver].zip`
+Go to [GorillaLibrary's GitHub Releases](https://github.com/GorillaTagModdingHub/GorillaLibrary/releases), and download both `GorillaLibrary.dll` and `GorillaLibrary.GameModes.dll`
 
-![screenshot of gorillalib git releases](/assets/glib.png)
+![screenshot of gorillalib git releases](/assets/glib2.png)
 
-Unzip the file that you downloaded.
-
-Next, find your Gorilla Tag folder, and copy the contents of the folder into it.
+Next, find your Gorilla Tag folder, and both of the files into `Mods/`.
 
 ::: warning HOLD UP!
-**DO NOT** copy the base `GorillaLibrary` folder into Gorilla Tag's folder.
-Instead, copy the **contents** of it (`Mods/`).
+**MAKE SURE** that you have **BOTH** GorillaLibrary files, otherwise things such as Modded Lobbies, and many mods won't work.
 :::
 
 ## Finishing up

@@ -11,14 +11,15 @@ Although modding is not officially supported by Another Axiom, you're unlikely t
 ### Mods (legal)
 
 - Mods **do not** provide an advantage over other players.
-- Good examples of such mods are cosmetic mods such as [GorillaShirts](https://github.com/developer9998/GorillaShirts), but even mod menus **restricted to modded lobbies** still count as mods.
+- Good examples of such mods are cosmetic mods such as [GorillaShirts](https://github.com/developer9998/GorillaShirts), but even mod menus **restricted to modded lobbies** (eg. Bark) still count as mods.
 
 ###### Do note, that cheats used in modded lobbies are **still** cheats!
 
 ### Cheats (illegal)
 
 - Cheats **DO** provide an advantage over other players.
-- These mods are generally frowned upon, and have a high likelyhood of causing you to be banned.
+- These so-called *cheats* are mostly mod menus with overpowered mods and unfair features.
+- These mods are generally frowned upon, and have a high likelihood of causing you to be banned.
 
 ## So, what about Quest mods?
 
