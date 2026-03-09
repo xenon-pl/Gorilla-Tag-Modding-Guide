@@ -16,6 +16,10 @@ This guide will demonstrate how to use [GorillaMelonManager](https://github.com/
 
 ## 0. Preface
 
+::: tip HOLD UP!
+This step isn't strictly required, as GorillaMelonManager can do it for you!
+:::
+
 If you are migrating from BepInEx, you need to delete it from your Gorilla Tag installation.
 Find your Gorilla Tag folder, and delete the following files:
 
